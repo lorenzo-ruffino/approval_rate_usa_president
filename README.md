@@ -30,7 +30,7 @@ Structure:
 - The remaining 14 columns are named after U.S. presidents, with each containing that president's net approval rating for the corresponding day of their first term:
   - Barack Obama
   - Bill Clinton
-  - Donald Trump
+  - Donald Trump (2017-2021)
   - Dwight D. Eisenhower
   - George H.W. Bush
   - George W. Bush
